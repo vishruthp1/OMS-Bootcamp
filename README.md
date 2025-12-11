@@ -6,13 +6,13 @@
 
 * **Spring Boot Kickoff**
 * **Kafka Fundamentals**
+* **Avro + Schema Registry** 
 
 ### 🚧 In Progress
 
-* **Avro + Schema Registry** (currently working on this task)
+* **DocumentDB / MongoDB** (currently working on this task)
 
 ### 🗂️ Upcoming Tasks
 
-* **DocumentDB / MongoDB**
 * **Combine All Together**
 * **Understand Docker & Containerization**
