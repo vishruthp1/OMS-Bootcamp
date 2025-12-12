@@ -16,3 +16,4 @@
 
 * **Combine All Together**
 * **Understand Docker & Containerization**
+* **Event Handling + Retry Logic**
