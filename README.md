@@ -10,7 +10,7 @@
 
 ### 🚧 In Progress
 
-* **DocumentDB / MongoDB** (currently working on this task)
+* **MongoDB** (currently working on this task)
 
 ### 🗂️ Upcoming Tasks
 
