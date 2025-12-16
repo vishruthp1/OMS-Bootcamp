@@ -6,14 +6,14 @@
 
 * **Spring Boot Kickoff**
 * **Kafka Fundamentals**
-* **Avro + Schema Registry** 
+* **Avro + Schema Registry**
+* **MongoDB**
 
 ### 🚧 In Progress
 
-* **MongoDB** (currently working on this task)
+* **Combine All Together** (currently working on this task)
 
 ### 🗂️ Upcoming Tasks
 
-* **Combine All Together**
 * **Understand Docker & Containerization**
 * **Event Handling + Retry Logic**
