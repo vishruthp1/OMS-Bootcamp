@@ -1,19 +1,19 @@
 # OMS-Bootcamp
 
-## 📌 Project Progress
+## Project Progress
 
-### ✔️ Completed
+### Completed
 
 * **Spring Boot Kickoff**
 * **Kafka Fundamentals**
 * **Avro + Schema Registry**
 * **MongoDB**
 
-### 🚧 In Progress
+### In Progress
 
 * **Combine All Together** (currently working on this task)
 
-### 🗂️ Upcoming Tasks
+### Upcoming Tasks
 
 * **Understand Docker & Containerization**
 * **Event Handling + Retry Logic**
