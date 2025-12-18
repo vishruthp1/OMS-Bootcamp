@@ -1,0 +1,12 @@
+{
+  "type": "record",
+  "name": "OrderCreatedEvent",
+  "namespace": "com.vishruth.order_service.event",
+  "fields": [
+    { "name": "orderId", "type": "string" },
+    { "name": "productName", "type": "string" },
+    { "name": "quantity", "type": "int" },
+    { "name": "price", "type": "double" },
+    { "name": "createdAt", "type": "string" }
+  ]
+}

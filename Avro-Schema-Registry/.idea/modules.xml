@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/kafka-schema-registry.iml" filepath="$PROJECT_DIR$/.idea/kafka-schema-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Avro-Schema-Registry.iml" filepath="$PROJECT_DIR$/.idea/Avro-Schema-Registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kafka-schema-registry/kafka-schema-registry.iml" filepath="$PROJECT_DIR$/kafka-schema-registry/kafka-schema-registry.iml" />
     </modules>
   </component>
 </project>
