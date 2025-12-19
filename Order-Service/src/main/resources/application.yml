@@ -14,7 +14,7 @@ spring:
 
   data:
     mongodb:
-      uri: mongodb://localhost:27017/order_events
+      url: mongodb://localhost:27017/order_events
 
   kafka:
     bootstrap-servers: localhost:9092
