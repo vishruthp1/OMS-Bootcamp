@@ -8,12 +8,13 @@
 * **Kafka Fundamentals**
 * **Avro + Schema Registry**
 * **MongoDB**
+* **Combine All Together**
 
 ### In Progress
 
-* **Combine All Together** (currently working on this task)
+* **Understand Docker & Containerization** (currently working on this task)
 
 ### Upcoming Tasks
 
-* **Understand Docker & Containerization**
 * **Event Handling + Retry Logic**
+* **Saga Flow (Orchestration)** 
