@@ -1,0 +1,19 @@
+{
+  "type": "record",
+  "name": "OrderCreatedEvent",
+  "namespace": "com.task_5.orderservice.avro",
+  "fields": [
+    {
+      "name": "orderId",
+      "type": "string"
+    },
+    {
+      "name": "productName",
+      "type": "string"
+    },
+    {
+      "name": "amount",
+      "type": "double"
+    }
+  ]
+}
