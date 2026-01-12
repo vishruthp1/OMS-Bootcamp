@@ -17,4 +17,7 @@
 
 ### Upcoming Tasks
 
-* **Saga Flow (Orchestration)** 
+* **Saga Flow (Orchestration)**
+* **Saga Flow (Choreography)**
+* **End-to-End Workflow**
+* **Add a Notification Feature** 
