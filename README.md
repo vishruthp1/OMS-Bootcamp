@@ -9,12 +9,12 @@
 * **Avro + Schema Registry**
 * **MongoDB**
 * **Combine All Together**
+* **Understand Docker & Containerization**
 
 ### In Progress
 
-* **Understand Docker & Containerization** (currently working on this task)
+* **Event Handling + Retry Logic** (currently working on this task)
 
 ### Upcoming Tasks
 
-* **Event Handling + Retry Logic**
 * **Saga Flow (Orchestration)** 
