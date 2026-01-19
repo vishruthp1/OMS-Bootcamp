@@ -10,14 +10,14 @@
 * **MongoDB**
 * **Combine All Together**
 * **Understand Docker & Containerization**
+* **Event Handling + Retry Logic**
 
 ### In Progress
 
-* **Event Handling + Retry Logic** (currently working on this task)
+* **Saga Flow (Choreography)** (currently working on this task)
 
 ### Upcoming Tasks
 
 * **Saga Flow (Orchestration)**
-* **Saga Flow (Choreography)**
 * **End-to-End Workflow**
 * **Add a Notification Feature** 
